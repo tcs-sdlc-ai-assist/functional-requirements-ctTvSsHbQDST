@@ -1,0 +1,19 @@
+{
+  "name": "hirehub-onboarding-portal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0"
+  }
+}
+Created package.json with dev, build, and preview scripts; installed react, react-dom, @vitejs/plugin-react, and vite as dependencies.
