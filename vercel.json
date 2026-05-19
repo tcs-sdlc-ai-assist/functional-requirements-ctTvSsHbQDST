@@ -6,4 +6,3 @@
     }
   ]
 }
-Created vercel.json with SPA rewrite rule mapping all routes to index.html.
